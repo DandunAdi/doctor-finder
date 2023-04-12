@@ -1,4 +1,4 @@
-import FilterView from "./components/FilterView";
+import FilterView from "./components/Filter/FilterView";
 import { Doctor } from "./interfaces/Doctor";
 import { ResponseDTO } from "./interfaces/ResponseDTO";
 
